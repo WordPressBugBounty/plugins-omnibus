@@ -1,7 +1,7 @@
 <?php
 /*
 
-Copyright 2022-2024 Marcin Pietrzak (marcin@iworks.pl)
+Copyright 2022-2025 Marcin Pietrzak (marcin@iworks.pl)
 
 this program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
@@ -266,7 +266,7 @@ class iworks_omnibus_integration_woocommerce extends iworks_omnibus_integration 
 			$this->get_name( __CLASS__ ),
 			plugins_url( 'assets/scripts/admin/woocommerce.min.js', dirname( dirname( dirname( __DIR__ ) ) ) ),
 			array( 'jquery' ),
-			'3.0.3'
+			'3.0.4'
 		);
 	}
 

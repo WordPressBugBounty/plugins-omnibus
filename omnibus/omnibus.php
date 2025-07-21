@@ -4,13 +4,13 @@ Plugin Name: Omnibus — show the lowest price
 Text Domain: omnibus
 Plugin URI: https://github.com/iworks/omnibus/
 Description: The plugin adds two additional fields in the product edit view: the lowest price and the effective date for compatibility with the EU Omnibus Directive.
-Version: 3.0.3
+Version: 3.0.4
 Author: Marcin Pietrzak
 Author URI: http://iworks.pl/
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Copyright 2022-2024 Marcin Pietrzak (marcin@iworks.pl)
+Copyright 2022-2025 Marcin Pietrzak (marcin@iworks.pl)
 
 this program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as

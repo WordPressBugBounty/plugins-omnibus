@@ -1,7 +1,7 @@
 <?php
 /*
 
-Copyright 2022-2024 Marcin Pietrzak (marcin@iworks.pl)
+Copyright 2022-2025 Marcin Pietrzak (marcin@iworks.pl)
 
 this program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
@@ -299,7 +299,7 @@ class iworks_omnibus {
 			__FUNCTION__,
 			plugins_url( 'assets/scripts/admin/migrate-v3.min.js', dirname( __DIR__ ) ),
 			array( 'jquery' ),
-			'3.0.3'
+			'3.0.4'
 		);
 		wp_enqueue_script( __FUNCTION__ );
 	}
